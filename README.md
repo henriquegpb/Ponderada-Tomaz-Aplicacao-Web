@@ -27,9 +27,8 @@ Inclui:
 4. **Configurar credenciais** em `inc/dbinfo.inc` com o **endpoint** do RDS, usuário e senha.
 5. Acesse: `http://SEU_DNS_PUBLICO_EC2/index.php`
 
-## Vídeo (demonstração)
-Cole aqui a URL do vídeo (YouTube não listado, por exemplo).  
-**URL do vídeo:** [COLE AQUI]
+## Vídeo (demonstração) 
+**URL do vídeo:** https://drive.google.com/file/d/11cb4ublySArqSnaM-_T2Qs_-hT5M8xL7/view?usp=sharing
 
 ### Roteiro do vídeo sugerido
 - Console EC2: instância em **Running**, tipo, SG com portas 80/443/22.
